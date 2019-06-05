@@ -1,3 +1,0 @@
-include LICENSE
-graft flask_sphinx_themes/flask
-graft flask_sphinx_themes/flask_small
